@@ -1,0 +1,14 @@
+E:\Work\AppSolution\ControleJogos\src\WebApiSln\ControleJogosWebApi\obj\Debug\netcoreapp2.1\ControleJogosWebApi.csproj.CoreCompileInputs.cache
+E:\Work\AppSolution\ControleJogos\src\WebApiSln\ControleJogosWebApi\obj\Debug\netcoreapp2.1\ControleJogosWebApi.RazorAssemblyInfo.cache
+E:\Work\AppSolution\ControleJogos\src\WebApiSln\ControleJogosWebApi\obj\Debug\netcoreapp2.1\ControleJogosWebApi.RazorAssemblyInfo.cs
+E:\Work\AppSolution\ControleJogos\src\WebApiSln\ControleJogosWebApi\obj\Debug\netcoreapp2.1\ControleJogosWebApi.AssemblyInfoInputs.cache
+E:\Work\AppSolution\ControleJogos\src\WebApiSln\ControleJogosWebApi\obj\Debug\netcoreapp2.1\ControleJogosWebApi.AssemblyInfo.cs
+E:\Work\AppSolution\ControleJogos\src\WebApiSln\ControleJogosWebApi\bin\Debug\netcoreapp2.1\ControleJogosWebApi.deps.json
+E:\Work\AppSolution\ControleJogos\src\WebApiSln\ControleJogosWebApi\bin\Debug\netcoreapp2.1\ControleJogosWebApi.runtimeconfig.json
+E:\Work\AppSolution\ControleJogos\src\WebApiSln\ControleJogosWebApi\bin\Debug\netcoreapp2.1\ControleJogosWebApi.runtimeconfig.dev.json
+E:\Work\AppSolution\ControleJogos\src\WebApiSln\ControleJogosWebApi\bin\Debug\netcoreapp2.1\ControleJogosWebApi.dll
+E:\Work\AppSolution\ControleJogos\src\WebApiSln\ControleJogosWebApi\bin\Debug\netcoreapp2.1\ControleJogosWebApi.pdb
+E:\Work\AppSolution\ControleJogos\src\WebApiSln\ControleJogosWebApi\obj\Debug\netcoreapp2.1\ControleJogosWebApi.RazorTargetAssemblyInfo.cache
+E:\Work\AppSolution\ControleJogos\src\WebApiSln\ControleJogosWebApi\obj\Debug\netcoreapp2.1\ControleJogosWebApi.dll
+E:\Work\AppSolution\ControleJogos\src\WebApiSln\ControleJogosWebApi\obj\Debug\netcoreapp2.1\ControleJogosWebApi.pdb
+E:\Work\AppSolution\ControleJogos\src\WebApiSln\ControleJogosWebApi\obj\Debug\netcoreapp2.1\ControleJogosWebApi.csprojAssemblyReference.cache

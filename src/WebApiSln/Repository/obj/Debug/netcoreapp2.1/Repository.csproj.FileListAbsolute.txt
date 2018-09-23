@@ -1,0 +1,6 @@
+E:\Work\AppSolution\ControleJogos\src\WebApiSln\Repository\bin\Debug\netcoreapp2.1\Repository.deps.json
+E:\Work\AppSolution\ControleJogos\src\WebApiSln\Repository\bin\Debug\netcoreapp2.1\Repository.dll
+E:\Work\AppSolution\ControleJogos\src\WebApiSln\Repository\obj\Debug\netcoreapp2.1\Repository.csprojAssemblyReference.cache
+E:\Work\AppSolution\ControleJogos\src\WebApiSln\Repository\obj\Debug\netcoreapp2.1\Repository.csproj.CoreCompileInputs.cache
+E:\Work\AppSolution\ControleJogos\src\WebApiSln\Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfoInputs.cache
+E:\Work\AppSolution\ControleJogos\src\WebApiSln\Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfo.cs
