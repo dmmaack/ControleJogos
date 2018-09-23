@@ -9,6 +9,14 @@ namespace Repository.Entity
 
 		}
 
+		protected override void OnModelCreating(ModelBuilder modelbuilder)
+		{
+			modelbuilder.Entity<JogoEntity>().HasOne(p => p.FabricanteJogo).WithMany(w => w.Jogos);
+		}
+
 		public DbSet<ConsoleEntity> Console { get; set; }
+		public DbSet<FabricanteJogosEntity> FabricanteJogos { get; set; }
+		public DbSet<JogoEntity> Jogo { get; set; }
+
 	}
 }

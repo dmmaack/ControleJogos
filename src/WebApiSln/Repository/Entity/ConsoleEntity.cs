@@ -15,10 +15,11 @@ namespace Repository.Entity
 
         }
         
+		[Key]
         public int ConsoleId { get; private set; }
 
 		[Required]
-		[StringLength(20)]
+		[StringLength(60)]
 		[Display(Name = "Nome")]
         public string Nome { get; private set; }
 
@@ -26,7 +27,7 @@ namespace Repository.Entity
         public int FabricanteId { get; private set; }
 
 		[Required]
-		[StringLength(20)]
+		[StringLength(100)]
 		[Display(Name = "Modelo")]
 		public string Modelo { get; private set; }
 
@@ -38,5 +39,5 @@ namespace Repository.Entity
 		[Required]
 		[Display(Name = "Quantidade de Controles")]
 		public int QtdControles { get; private set; }
-    }
+	}
 }
