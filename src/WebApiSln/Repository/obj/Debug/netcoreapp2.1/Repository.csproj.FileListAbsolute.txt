@@ -4,3 +4,14 @@ E:\Work\AppSolution\ControleJogos\src\WebApiSln\Repository\obj\Debug\netcoreapp2
 E:\Work\AppSolution\ControleJogos\src\WebApiSln\Repository\obj\Debug\netcoreapp2.1\Repository.csproj.CoreCompileInputs.cache
 E:\Work\AppSolution\ControleJogos\src\WebApiSln\Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfoInputs.cache
 E:\Work\AppSolution\ControleJogos\src\WebApiSln\Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfo.cs
+C:\TEMP\Particular\Applications\ControleJogos\src\WebApiSln\Repository\bin\Debug\netcoreapp2.1\Repository.deps.json
+C:\TEMP\Particular\Applications\ControleJogos\src\WebApiSln\Repository\bin\Debug\netcoreapp2.1\Repository.runtimeconfig.json
+C:\TEMP\Particular\Applications\ControleJogos\src\WebApiSln\Repository\bin\Debug\netcoreapp2.1\Repository.runtimeconfig.dev.json
+C:\TEMP\Particular\Applications\ControleJogos\src\WebApiSln\Repository\bin\Debug\netcoreapp2.1\Repository.dll
+C:\TEMP\Particular\Applications\ControleJogos\src\WebApiSln\Repository\bin\Debug\netcoreapp2.1\Repository.pdb
+C:\TEMP\Particular\Applications\ControleJogos\src\WebApiSln\Repository\obj\Debug\netcoreapp2.1\Repository.csproj.CoreCompileInputs.cache
+C:\TEMP\Particular\Applications\ControleJogos\src\WebApiSln\Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfoInputs.cache
+C:\TEMP\Particular\Applications\ControleJogos\src\WebApiSln\Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfo.cs
+C:\TEMP\Particular\Applications\ControleJogos\src\WebApiSln\Repository\obj\Debug\netcoreapp2.1\Repository.dll
+C:\TEMP\Particular\Applications\ControleJogos\src\WebApiSln\Repository\obj\Debug\netcoreapp2.1\Repository.pdb
+C:\TEMP\Particular\Applications\ControleJogos\src\WebApiSln\Repository\obj\Debug\netcoreapp2.1\Repository.csprojAssemblyReference.cache

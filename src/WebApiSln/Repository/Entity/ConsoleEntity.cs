@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
 namespace Repository.Entity
@@ -42,5 +43,7 @@ namespace Repository.Entity
 
 
 		public FabricanteEntity FabricanteConsole { get; set; }
-	}
+
+        public List<JogoEntity> Jogos { get; set; }
+    }
 }
