@@ -39,5 +39,8 @@ namespace Repository.Entity
 		[Required]
 		[Display(Name = "Quantidade de Controles")]
 		public int QtdControles { get; private set; }
+
+
+		public FabricanteEntity FabricanteConsole { get; set; }
 	}
 }

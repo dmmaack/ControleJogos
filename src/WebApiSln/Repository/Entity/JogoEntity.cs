@@ -30,7 +30,7 @@ namespace Repository.Entity
 		public int GeneroId { get; private set; }
 
 		[Required]
-		[ForeignKey("FabricanteJogo")]
+		//[ForeignKey("FabricanteJogo")]
 		public int FabricanteJogosId { get; private set; }
 
 		[Required]
@@ -67,6 +67,6 @@ namespace Repository.Entity
 		[Display(Name = "Foto")]
 		public string Foto { get; private set; }
 
-		public FabricanteJogosEntity FabricanteJogo { get; set; }
+		public FabricanteEntity FabricanteJogo { get; set; }
 	}
 }

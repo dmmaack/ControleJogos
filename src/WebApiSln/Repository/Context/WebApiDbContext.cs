@@ -11,11 +11,12 @@ namespace Repository.Entity
 
 		protected override void OnModelCreating(ModelBuilder modelbuilder)
 		{
-			modelbuilder.Entity<JogoEntity>().HasOne(p => p.FabricanteJogo).WithMany(w => w.Jogos);
+			modelbuilder.Entity<JogoEntity>().HasOne(ho => ho.FabricanteJogo).WithMany(wm => wm.Jogos);
+			modelbuilder.Entity<ConsoleEntity>().HasOne(ho => ho.FabricanteConsole).WithMany(wm => wm.Consoles);
 		}
 
 		public DbSet<ConsoleEntity> Console { get; set; }
-		public DbSet<FabricanteJogosEntity> FabricanteJogos { get; set; }
+		public DbSet<FabricanteEntity> FabricanteJogos { get; set; }
 		public DbSet<JogoEntity> Jogo { get; set; }
 
 	}
