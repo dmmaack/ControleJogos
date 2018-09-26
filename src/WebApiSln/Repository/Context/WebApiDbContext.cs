@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.SqlServer;
 
 namespace Repository.Entity
 {
@@ -6,7 +7,7 @@ namespace Repository.Entity
 	{
 		public WebApiDbContext(DbContextOptions<WebApiDbContext> options) : base(options)
 		{
-
+            
 		}
 
 		protected override void OnModelCreating(ModelBuilder modelbuilder)
