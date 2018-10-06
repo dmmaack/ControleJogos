@@ -5,12 +5,12 @@ namespace Repository.Entity
 {
 	public class JogoEntity
 	{
-		public JogoEntity(int jogoId, int consoleId, int generoId, int fabricanteJogosId, string nome, int numJogadores, string classificacaoEtaria, string linkVideo, string idioma, string observacao, string foto)
+		public JogoEntity(int jogoId, int consoleId, int generoId, int fabricanteId, string nome, int numJogadores, string classificacaoEtaria, string linkVideo, string idioma, string observacao, string foto)
 		{
 			JogoId = jogoId;
 			ConsoleId = consoleId;
 			GeneroId = generoId;
-			FabricanteJogosId = fabricanteJogosId;
+			FabricanteId = fabricanteId;
 			Nome = nome;
 			NumJogadores = numJogadores;
 			ClassificacaoEtaria = classificacaoEtaria;
@@ -31,7 +31,7 @@ namespace Repository.Entity
 
 		[Required]
 		//[ForeignKey("FabricanteJogo")]
-		public int FabricanteJogosId { get; private set; }
+		public int FabricanteId { get; private set; }
 
 		[Required]
 		[StringLength(60)]
@@ -68,5 +68,9 @@ namespace Repository.Entity
 		public string Foto { get; private set; }
 
 		public FabricanteEntity FabricanteJogo { get; set; }
-	}
+
+        public EmprestimoEntity Emprestimo { get; set; }
+
+        public ConsoleEntity Console { get; set; }
+    }
 }
