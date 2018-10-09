@@ -12543,23 +12543,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\maack\\.nuget\\packages\\": {},
+    "C:\\Users\\danielmaack\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\work\\appsolution\\controlejogos\\src\\COntroleJogosSln\\ControleJogos\\ControleJogos.csproj",
+      "projectUniqueName": "C:\\TEMP\\Particular\\Applications\\ControleJogos\\src\\ControleJogosSln\\ControleJogos\\ControleJogos.csproj",
       "projectName": "ControleJogos",
-      "projectPath": "E:\\work\\appsolution\\controlejogos\\src\\COntroleJogosSln\\ControleJogos\\ControleJogos.csproj",
-      "packagesPath": "C:\\Users\\maack\\.nuget\\packages\\",
-      "outputPath": "E:\\work\\appsolution\\controlejogos\\src\\COntroleJogosSln\\ControleJogos\\obj\\",
+      "projectPath": "C:\\TEMP\\Particular\\Applications\\ControleJogos\\src\\ControleJogosSln\\ControleJogos\\ControleJogos.csproj",
+      "packagesPath": "C:\\Users\\danielmaack\\.nuget\\packages\\",
+      "outputPath": "C:\\TEMP\\Particular\\Applications\\ControleJogos\\src\\ControleJogosSln\\ControleJogos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\maack\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\danielmaack\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -12567,6 +12567,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\TEMP\\NewPackage": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

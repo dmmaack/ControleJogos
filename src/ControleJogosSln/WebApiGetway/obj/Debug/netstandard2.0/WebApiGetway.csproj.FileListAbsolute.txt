@@ -1,0 +1,9 @@
+C:\TEMP\Particular\Applications\ControleJogos\src\ControleJogosSln\WebApiGetway\bin\Debug\netstandard2.0\WebApiGetway.deps.json
+C:\TEMP\Particular\Applications\ControleJogos\src\ControleJogosSln\WebApiGetway\bin\Debug\netstandard2.0\WebApiGetway.dll
+C:\TEMP\Particular\Applications\ControleJogos\src\ControleJogosSln\WebApiGetway\bin\Debug\netstandard2.0\WebApiGetway.pdb
+C:\TEMP\Particular\Applications\ControleJogos\src\ControleJogosSln\WebApiGetway\obj\Debug\netstandard2.0\WebApiGetway.csprojAssemblyReference.cache
+C:\TEMP\Particular\Applications\ControleJogos\src\ControleJogosSln\WebApiGetway\obj\Debug\netstandard2.0\WebApiGetway.csproj.CoreCompileInputs.cache
+C:\TEMP\Particular\Applications\ControleJogos\src\ControleJogosSln\WebApiGetway\obj\Debug\netstandard2.0\WebApiGetway.AssemblyInfoInputs.cache
+C:\TEMP\Particular\Applications\ControleJogos\src\ControleJogosSln\WebApiGetway\obj\Debug\netstandard2.0\WebApiGetway.AssemblyInfo.cs
+C:\TEMP\Particular\Applications\ControleJogos\src\ControleJogosSln\WebApiGetway\obj\Debug\netstandard2.0\WebApiGetway.dll
+C:\TEMP\Particular\Applications\ControleJogos\src\ControleJogosSln\WebApiGetway\obj\Debug\netstandard2.0\WebApiGetway.pdb

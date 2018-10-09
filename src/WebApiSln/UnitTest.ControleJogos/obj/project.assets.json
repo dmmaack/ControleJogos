@@ -5729,11 +5729,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\TEMP\\Particular\\Applications\\ControleJogos\\src\\WebApiSln\\UnitTest.ControleJogos\\UnitTest.ControleJogos.csproj",
+      "projectUniqueName": "C:\\TEMP\\Particular\\Applications\\ControleJogos\\src\\webapisln\\UnitTest.ControleJogos\\UnitTest.ControleJogos.csproj",
       "projectName": "UnitTest.ControleJogos",
-      "projectPath": "C:\\TEMP\\Particular\\Applications\\ControleJogos\\src\\WebApiSln\\UnitTest.ControleJogos\\UnitTest.ControleJogos.csproj",
+      "projectPath": "C:\\TEMP\\Particular\\Applications\\ControleJogos\\src\\webapisln\\UnitTest.ControleJogos\\UnitTest.ControleJogos.csproj",
       "packagesPath": "C:\\Users\\danielmaack\\.nuget\\packages\\",
-      "outputPath": "C:\\TEMP\\Particular\\Applications\\ControleJogos\\src\\WebApiSln\\UnitTest.ControleJogos\\obj\\",
+      "outputPath": "C:\\TEMP\\Particular\\Applications\\ControleJogos\\src\\webapisln\\UnitTest.ControleJogos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5777,6 +5777,7 @@
             "version": "[15.8.0, )"
           },
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true

@@ -12,11 +12,11 @@ namespace Repository.Entity
 
 		protected override void OnModelCreating(ModelBuilder modelbuilder)
 		{
-			modelbuilder.Entity<JogoEntity>().HasOne(ho => ho.FabricanteJogo).WithMany(wm => wm.Jogos);
+			modelbuilder.Entity<JogoEntity>().HasOne(ho => ho.FabricanteJogo).WithMany(wm => wm.Jogos).OnDelete(DeleteBehavior.Restrict);
             modelbuilder.Entity<JogoEntity>().HasOne(ho => ho.Emprestimo).WithOne(wo => wo.Jogo);
             modelbuilder.Entity<JogoEntity>().HasOne(ho => ho.Console).WithMany(wm => wm.Jogos);
-            modelbuilder.Entity<ConsoleEntity>().HasOne(ho => ho.FabricanteConsole).WithMany(wm => wm.Consoles);
-            modelbuilder.Entity<EmprestimoEntity>().HasOne(ho => ho.Amigo).WithMany(wm => wm.Emprestimos);
+            modelbuilder.Entity<ConsoleEntity>().HasOne(ho => ho.FabricanteConsole).WithMany(wm => wm.Consoles).OnDelete(DeleteBehavior.Restrict);
+            modelbuilder.Entity<EmprestimoEntity>().HasOne(ho => ho.Amigo).WithMany(wm => wm.Emprestimos).OnDelete(DeleteBehavior.Restrict);
             modelbuilder.Entity<EmprestimoEntity>().HasOne(ho => ho.Jogo).WithOne(wo => wo.Emprestimo);
 		}
 

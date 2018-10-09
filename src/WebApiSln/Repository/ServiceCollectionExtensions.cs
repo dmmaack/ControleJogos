@@ -14,6 +14,8 @@ namespace Repository
                     options => options.UseSqlServer(
                         configuration.GetConnectionString("DefaultConnection")));
             
+            serviceCollection.AddTransient<IFabricanteService, FabricanteService>();
+
             return serviceCollection;
         }
     }

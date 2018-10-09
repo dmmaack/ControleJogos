@@ -11525,11 +11525,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\TEMP\\Particular\\Applications\\ControleJogos\\src\\WebApiSln\\ControleJogosWebApi\\ControleJogosWebApi.csproj",
+      "projectUniqueName": "C:\\TEMP\\Particular\\Applications\\ControleJogos\\src\\webapisln\\ControleJogosWebApi\\ControleJogosWebApi.csproj",
       "projectName": "ControleJogosWebApi",
-      "projectPath": "C:\\TEMP\\Particular\\Applications\\ControleJogos\\src\\WebApiSln\\ControleJogosWebApi\\ControleJogosWebApi.csproj",
+      "projectPath": "C:\\TEMP\\Particular\\Applications\\ControleJogos\\src\\webapisln\\ControleJogosWebApi\\ControleJogosWebApi.csproj",
       "packagesPath": "C:\\Users\\danielmaack\\.nuget\\packages\\",
-      "outputPath": "C:\\TEMP\\Particular\\Applications\\ControleJogos\\src\\WebApiSln\\ControleJogosWebApi\\obj\\",
+      "outputPath": "C:\\TEMP\\Particular\\Applications\\ControleJogos\\src\\webapisln\\ControleJogosWebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -11549,8 +11549,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\TEMP\\Particular\\Applications\\ControleJogos\\src\\WebApiSln\\Repository\\Repository.csproj": {
-              "projectPath": "C:\\TEMP\\Particular\\Applications\\ControleJogos\\src\\WebApiSln\\Repository\\Repository.csproj"
+            "C:\\TEMP\\Particular\\Applications\\ControleJogos\\src\\webapisln\\Repository\\Repository.csproj": {
+              "projectPath": "C:\\TEMP\\Particular\\Applications\\ControleJogos\\src\\webapisln\\Repository\\Repository.csproj"
             }
           }
         }
