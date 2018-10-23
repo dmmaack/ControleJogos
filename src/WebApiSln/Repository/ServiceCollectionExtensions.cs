@@ -2,6 +2,7 @@
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Repository.Entity;
+using Repository.Services;
 
 namespace Repository
 {
@@ -14,7 +15,7 @@ namespace Repository
                     options => options.UseSqlServer(
                         configuration.GetConnectionString("DefaultConnection")));
             
-            serviceCollection.AddTransient<IFabricanteService, FabricanteService>();
+            serviceCollection.AddTransient<IFabricanteRepository, FabricanteRepository>();
 
             return serviceCollection;
         }

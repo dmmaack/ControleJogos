@@ -5183,7 +5183,7 @@
       ]
     },
     "Microsoft.AspNetCore.Razor.Design/2.1.1": {
-      "sha512": "f8PKGcxiezL1RVqmnmrazj24Mj4KCTSXqwdotl7Lc+82h8iLV7ItxEIShTJakG7M9iw0ZuCocM0J/IhYesdQrg==",
+      "sha512": "BOK5fckW9v7xWjpEI6bPGwkjw10OPVASZcAa8HoWJo/0Mmg4Azddj92v8noU+YgvD/6zNZ9o/RiRXXKxk5rYwQ==",
       "type": "package",
       "path": "microsoft.aspnetcore.razor.design/2.1.1",
       "files": [
@@ -11519,23 +11519,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\danielmaack\\.nuget\\packages\\": {},
+    "C:\\Users\\Daniel Maack\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\TEMP\\Particular\\Applications\\ControleJogos\\src\\webapisln\\ControleJogosWebApi\\ControleJogosWebApi.csproj",
+      "projectUniqueName": "C:\\Work\\ProjetosSalaDeEstudos\\ControleJogos\\src\\WebApiSln\\ControleJogosWebApi\\ControleJogosWebApi.csproj",
       "projectName": "ControleJogosWebApi",
-      "projectPath": "C:\\TEMP\\Particular\\Applications\\ControleJogos\\src\\webapisln\\ControleJogosWebApi\\ControleJogosWebApi.csproj",
-      "packagesPath": "C:\\Users\\danielmaack\\.nuget\\packages\\",
-      "outputPath": "C:\\TEMP\\Particular\\Applications\\ControleJogos\\src\\webapisln\\ControleJogosWebApi\\obj\\",
+      "projectPath": "C:\\Work\\ProjetosSalaDeEstudos\\ControleJogos\\src\\WebApiSln\\ControleJogosWebApi\\ControleJogosWebApi.csproj",
+      "packagesPath": "C:\\Users\\Daniel Maack\\.nuget\\packages\\",
+      "outputPath": "C:\\Work\\ProjetosSalaDeEstudos\\ControleJogos\\src\\WebApiSln\\ControleJogosWebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\danielmaack\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Daniel Maack\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -11543,14 +11543,13 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\TEMP\\NewPackage": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\TEMP\\Particular\\Applications\\ControleJogos\\src\\webapisln\\Repository\\Repository.csproj": {
-              "projectPath": "C:\\TEMP\\Particular\\Applications\\ControleJogos\\src\\webapisln\\Repository\\Repository.csproj"
+            "C:\\Work\\ProjetosSalaDeEstudos\\ControleJogos\\src\\WebApiSln\\Repository\\Repository.csproj": {
+              "projectPath": "C:\\Work\\ProjetosSalaDeEstudos\\ControleJogos\\src\\WebApiSln\\Repository\\Repository.csproj"
             }
           }
         }

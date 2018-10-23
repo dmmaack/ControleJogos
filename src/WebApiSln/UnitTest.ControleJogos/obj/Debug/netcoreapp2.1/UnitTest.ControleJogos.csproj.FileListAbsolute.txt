@@ -12,3 +12,9 @@ C:\TEMP\Particular\Applications\ControleJogos\src\WebApiSln\UnitTest.ControleJog
 C:\TEMP\Particular\Applications\ControleJogos\src\WebApiSln\UnitTest.ControleJogos\obj\Debug\netcoreapp2.1\UnitTest.ControleJogos.AssemblyInfo.cs
 C:\TEMP\Particular\Applications\ControleJogos\src\WebApiSln\UnitTest.ControleJogos\obj\Debug\netcoreapp2.1\UnitTest.ControleJogos.dll
 C:\TEMP\Particular\Applications\ControleJogos\src\WebApiSln\UnitTest.ControleJogos\obj\Debug\netcoreapp2.1\UnitTest.ControleJogos.pdb
+C:\Work\ProjetosSalaDeEstudos\ControleJogos\src\WebApiSln\UnitTest.ControleJogos\obj\Debug\netcoreapp2.1\UnitTest.ControleJogos.csprojAssemblyReference.cache
+C:\Work\ProjetosSalaDeEstudos\ControleJogos\src\WebApiSln\UnitTest.ControleJogos\obj\Debug\netcoreapp2.1\UnitTest.ControleJogos.csproj.CoreCompileInputs.cache
+C:\Work\ProjetosSalaDeEstudos\ControleJogos\src\WebApiSln\UnitTest.ControleJogos\obj\Debug\netcoreapp2.1\UnitTest.ControleJogos.AssemblyInfoInputs.cache
+C:\Work\ProjetosSalaDeEstudos\ControleJogos\src\WebApiSln\UnitTest.ControleJogos\obj\Debug\netcoreapp2.1\UnitTest.ControleJogos.AssemblyInfo.cs
+C:\Work\ProjetosSalaDeEstudos\ControleJogos\src\WebApiSln\UnitTest.ControleJogos\obj\Debug\netcoreapp2.1\UnitTest.ControleJogos.dll
+C:\Work\ProjetosSalaDeEstudos\ControleJogos\src\WebApiSln\UnitTest.ControleJogos\obj\Debug\netcoreapp2.1\UnitTest.ControleJogos.pdb
